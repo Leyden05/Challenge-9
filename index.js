@@ -36,7 +36,8 @@ const questions = [
         choices: [
             'Apache 2.0',
             'MIT',
-            'Other',
+            'GNU v3.0',
+            'none'
         ]
     },
     {
