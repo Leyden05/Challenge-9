@@ -1,4 +1,4 @@
-https://img.shields.io/badge/License-MIT-yellow
+License: MIT
 
 
 # Challenge-9
