@@ -33,12 +33,7 @@ const questions = [
         type: 'list',
         message: 'What license do this application have?',
         name: 'license',
-        choices: [
-            'Apache 2.0',
-            'MIT',
-            'GNU v3.0',
-            'none'
-        ]
+        choices: ['Apache 2.0','MIT','GNU v3.0']
     },
     {
         type: 'input',
