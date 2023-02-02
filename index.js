@@ -50,6 +50,16 @@ const questions = [
         message: 'Describe any improvements for future development:',
         name: 'improvements'
     },
+    {
+        type: 'input',
+        message: 'Enter your GitHub profile:',
+        name: 'github',
+    },
+    {
+        type: 'input',
+        message: 'Contact Information:',
+        name: 'information',
+    },
 ];
 
 // TODO: Create a function to write README file

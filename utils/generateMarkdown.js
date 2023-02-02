@@ -51,6 +51,11 @@ ${data.tests}
 
 ## Improvements
 ${data.improvements}
+
+## Questions?
+${data.github} is my GitHub profile. 
+
+Any questions regarding this project can be directed to:${data.questions}
 `;
 }
 
